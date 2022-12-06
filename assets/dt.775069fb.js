@@ -1,0 +1,1 @@
+import{u as o,o as r,c as n,a as s}from"./index.423f4c15.js";const _={__name:"dt",setup(u){const e=o();return(a,t)=>(r(),n("button",{onClick:t[0]||(t[0]=c=>s(e).push("/"))},"\u8FD4\u56DE"))}};export{_ as default};

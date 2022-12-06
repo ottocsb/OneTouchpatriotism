@@ -1,0 +1,1 @@
+import{u as o,o as r,c as n,a as s}from"./index.423f4c15.js";const p={__name:"wallet",setup(u){const t=o();return(a,e)=>(r(),n("button",{onClick:e[0]||(e[0]=c=>s(t).push("/"))},"\u8FD4\u56DE"))}};export{p as default};

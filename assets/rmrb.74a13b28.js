@@ -1,1 +1,0 @@
-import{u as r,o,c as n,a as s}from"./index.5d830290.js";const m={__name:"rmrb",setup(u){const t=r();return(a,e)=>(o(),n("button",{onClick:e[0]||(e[0]=c=>s(t).push("/"))},"\u8FD4\u56DE"))}};export{m as default};
