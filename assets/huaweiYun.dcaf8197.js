@@ -1,0 +1,1 @@
+import{u as o,o as n,c as r,a as u}from"./index.5d830290.js";const _={__name:"huaweiYun",setup(s){const t=o();return(a,e)=>(n(),r("button",{onClick:e[0]||(e[0]=c=>u(t).push("/"))},"\u8FD4\u56DE"))}};export{_ as default};
