@@ -57,7 +57,16 @@ const routes = [
             link: 'https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/dc/dc/c2/dcdcc258-e258-34ac-f81f-e1a8c15c54f6/StudyAppIcon-1x_U007emarketing-0-6-0-0-85-220.png/246x0w.png'
         },
         component: () => import('@/views/xxqg.vue') //
-    }
+    }, {
+        path: '/dt',
+        name: '灯塔-党建在线',
+        meta: {
+            link: 'https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/d4/e3/a0d4e34e-8273-7e06-9362-07fac688d5d2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png'
+        },
+        component: () => import('@/views/dt.vue') //
+    },
+
+
 ]
 
 const router = createRouter({
